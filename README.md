@@ -7,7 +7,7 @@
 
 2. Change into the project directory:
    ```bash
-   cd BoostDraftCodingAssignmentCPP
+   cd editor-hw
 
 3. Build the project:
    ```bash
@@ -22,6 +22,7 @@
 5. easy deploy:
     ```bash
     git clone https://github.com/waclly/editor-hw.git
-    cd BoostDraftCodingAssignmentCPP
+    cd editor-hw
     make
+
     ./checker
