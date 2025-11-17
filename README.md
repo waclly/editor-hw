@@ -24,5 +24,5 @@
     git clone https://github.com/waclly/editor-hw.git
     cd editor-hw
     make
-
     ./checker
+
